@@ -1,3 +1,2 @@
 # GitSkills
-dev add a new line -author master
-
+dev add a new line -author someone
